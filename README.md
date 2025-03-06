@@ -7,8 +7,10 @@
 - [Texnologiyalar](#texnologiyalar)
 - [O'rnatish](#ornatish)
 - [Foydalanish](#foydalanish)
+- [Tahlillar](#Tahlillar)
 - [Loyiha tuzilishi](#loyiha-tuzilishi)
-- [Hissa qo'shish](#hissa-qoshish)
+- [Loyiha asoschisi](#Loyiha_asoschisi)
+
 
 
 ## 🛠️ Texnologiyalar
