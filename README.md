@@ -40,7 +40,7 @@ python -m venv .venv
 ### 3. Virtual muhitni faollashtirish
 Windows:
 ```shellscript
-   .venv\Scripts\activate
+.venv\Scripts\activate
 ```
 Linux/Mac:
 ```shellscript
